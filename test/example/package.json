@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": { "node": "v0.6.0" },
+  "author": "Marc Bachmann <marc.brookman@gmail.com>",
+  "license": "MIT"
+}
