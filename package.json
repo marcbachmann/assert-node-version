@@ -1,6 +1,6 @@
 {
   "name": "assert-node-version",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Asserts the node version against one from the package.json or .nvmrc file",
   "main": "index.js",
   "author": "Marc Bachmann <marc.brookman@gmail.com>",
